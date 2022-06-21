@@ -1,0 +1,6 @@
+1. Don't touch the DOM - I'll do it
+
+DOM is our Document Object Model. It's what the browser uses to display a website or a web app. JS is simply manipulating this DOM, that is simply what JS is doing.
+
+* Imperative paradigm: you directly change a specific part of your app in response to various user events
+* Declarative paradigm: you declare what the state or data of your app should be like, based on this state make the changes to the UI

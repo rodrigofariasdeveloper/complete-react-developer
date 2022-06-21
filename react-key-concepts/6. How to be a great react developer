@@ -1,0 +1,14 @@
+* React Keywords
+
+- Declarative
+- JSX
+- Components
+- State
+- Props
+- VirtualDOM
+
+* How to be a great react developer
+
+1. Decide on components
+2. Decide the state and where it lives
+3. What changes when state changes

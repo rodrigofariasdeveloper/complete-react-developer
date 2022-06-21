@@ -1,0 +1,3 @@
+3. Unidirectional data flow
+
+Data only flows down. Data can never move up.
